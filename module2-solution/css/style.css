@@ -15,7 +15,7 @@ h1 {
 .box {
     border: 1px black solid;
     background-color: gray;
-    height: 150px;
+    height: 180px;
     margin-left: 10px;
     margin-right: 10px;
     overflow: hidden;
